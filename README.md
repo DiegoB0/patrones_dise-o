@@ -1,6 +1,6 @@
 # Patrones de Diseño
 
-Este proyecto trata sobre el patrón de diseño Singleton.
+En repositorio se ven distintos ejemplos de patrones de diseño para paginas web.
 
 ## Proyecto 1
 
